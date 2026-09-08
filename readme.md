@@ -23,9 +23,11 @@ How did you end up here exactly?...
 
 Anyway, whatever your reason is, welcome to this project!
 
-This is a project I made just for fun, so don't expect me to be highly active here. 
+This is a project I made just for fun, so don't expect me to be highly 
+active here. 
 
-Here I'm trying to combine a visual novel-like game with classic hangman. I know, it sounds a bit crazy, but that's the whole point—to test ideas! 
+Here I'm trying to combine a visual novel-like game with classic hangman. 
+I know, it sounds a bit crazy, but that's the whole point—to test ideas! 
 
 Feel free to explore this repo. It's almost empty now, but soon... 
 
